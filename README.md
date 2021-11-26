@@ -4,9 +4,9 @@ Buenos días, vamos a explicaros en qué consiste nuestro trabajo.
 
 Pensamos en hacer una página web acerca de productos dietéticos, fitness, productos que tratasen en general sobre el sistema digestivo.
 
-## Página web
+## <span style="color:#B9D989"> Página web</span>
 
-### Página principal
+- ### <span style="color:#8CBF3F">Página principal</span>
 
 ![](Imagenes/Screenshots/Web1.png)  
 
@@ -24,7 +24,7 @@ Aquí podéis apreciar nuestros valores, nuestra misión y los proveedores con l
 
 También se pueden leer las opiniones de nuestros clientes.
 
-### Página sistema inmunitario y defensas
+- ### <span style="color:#8CBF3F">Página sistema inmunitario y defensas </span>
 
 ![](Imagenes/Screenshots/Sistema1.png)  
 ![](Imagenes/Screenshots/Sistema2.png)
@@ -33,19 +33,19 @@ Esta página está solo dedicada a productos que traten el sistema inmunitario, 
 
 ![](Imagenes/Screenshots/Producto.png)  
 
-### Página deportistas
+- ### <span style="color:#8CBF3F">Página deportistas </span>
 
 ![](Imagenes/Screenshots/Deportistas1.png)  
 ![](Imagenes/Screenshots/Deportistas2.png)
 
 Esta página está solo dedicada a productos cuyo enfoque está en aumentar el rendimiento deportivo tanto para profesionales, como para gente amateur.
 
-## Formulario
+## <span style="color:#B9D989"> Formulario </span>
 
 Tenemos un botón el cual tiene escrito la palabra contáctanos y llevará a un formulario en el cual los clientes podrán hacer sus respectivas preguntas sobre cualquier cuestión relacionada con nuestra compañía<./p>  
 ![](Imagenes/Screenshots/Formulario.png) ![](Imagenes/Screenshots/Gracias.png)
 
-## Tablero
+## <span style="color:#B9D989"> Tablero </span>
 
 Hemos descargado un módulo el cual nos ha permitido organizar nuestras tareas como empleados.
 
@@ -53,21 +53,21 @@ Hemos descargado un módulo el cual nos ha permitido organizar nuestras tareas c
 ![](Imagenes/Screenshots/Tablero2.png)  
 ![](Imagenes/Screenshots/Tablero3.png)  
 
-## Gestión tareas de Administración
+## <span style="color:#B9D989">Gestión tareas de Administración </span>
 
 ![](Imagenes/Screenshots/CRM.png)  
 
-## Productos
+## <span style="color:#B9D989">Productos</span>
 
 Hemos implementado unos productos con sus respectivos precios, los cuales los clientes podrán comprar de manera muy sencilla<./p>  
 ![](Imagenes/Screenshots/Productos1.png)  
 
-## Calendario
+## <span style="color:#B9D989">Calendario</span>
 
 Hay ciertos días que tenemos tareas muy importantes que realizar, por eso las hemos dejado apuntadas en un calendario que nos ofrece Odoo tras haber instalado el módulo correspondiente<./p>  
 ![](Imagenes/Screenshots/Calendario1.png)  
 
-## Eventos y campañas de marketing
+## <span style="color:#B9D989">Eventos y campañas de marketing</span>
 
 Para darnos a conocer y fidelizar con nuestros clientes, hemos creado 2 eventos los cuales servirán para promocionarnos y así tener más probabilidad de éxito con nuestro proyecto.
 
@@ -75,7 +75,7 @@ Para darnos a conocer y fidelizar con nuestros clientes, hemos creado 2 eventos 
 ![](Imagenes/Screenshots/Eventos2.png)  
 ![](Imagenes/Screenshots/Eventos3.png)  
 
-## Sistema de comunicación interno
+## <span style="color:#B9D989">Sistema de comunicación interno</span>
 
 Para poder trabajar de manera más sencilla y cómoda entre nosotros los empleados, hemos desarrollado un sistema de chat interno. Aquí podréis ver un pequeño ejemplo
 
@@ -84,28 +84,34 @@ Para poder trabajar de manera más sencilla y cómoda entre nosotros los emplead
 ![](Imagenes/Screenshots/Chat3.png)  
 ![](Imagenes/Screenshots/Chat4.png)  
 
-## Gestionar contactos y otros datos
+## <span style="color:#B9D989">Gestionar contactos y otros datos</span>
 
 Para tener a mano los datos de nuestros clientes, proveedores, etc. Hemos implementado un módulo el cual nos permite generar un archivo tipo Calc que guarda todos estos datos tan esenciales para cualquier empresa.
 
 ![](Imagenes/Screenshots/Contactos1.png)  
 ![](Imagenes/Screenshots/CSV.png)  
 
-## Sistema de control de versiones y copias de seguridad
+## <span style="color:#B9D989">Sistema de control de versiones y copias de seguridad </span>
 
-### Encriptación base de datos
++ ### <span style="color:#8CBF3F">Encriptación base de datos </span>
 
 Aquí hemos encriptado la base de datos, ya que contiene datos sensibles y no sería plato de buen gusto perderlos.
 
 ![](Imagenes/Screenshots/cifrando.png)  
 
-### Commits GitHub
++ ### <span style="color:#8CBF3F">Commits GitHub</span>
 
 ![](Imagenes/Screenshots/GitHubCommits.png)  
 
-### Ramas proyecto GitHub
++ ### <span style="color:#8CBF3F">Ramas proyecto GitHub</span>
 
 ![](Imagenes/Screenshots/GitHub1.png)
+
+![](Imagenes/Screenshots/GitHub2.png)
+
+![](Imagenes/Screenshots/GitHub3.png)
+
+
 
 
     
